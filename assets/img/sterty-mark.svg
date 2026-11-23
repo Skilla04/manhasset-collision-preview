@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100.8" role="img" aria-label="Sterty">
+  <rect x="0" y="0" width="20.9" height="21.6" fill="#88F6FC"/>
+  <rect x="0" y="25.4" width="20.9" height="21.6" fill="#88F6FC"/>
+  <rect x="0" y="53.8" width="20.9" height="21.6" fill="#88F6FC"/>
+  <rect x="0" y="79.2" width="46.7" height="21.6" fill="#88F6FC"/>
+  <rect x="53.3" y="0" width="46.7" height="21.6" fill="#88F6FC"/>
+  <rect x="79.1" y="25.4" width="20.9" height="21.6" fill="#88F6FC"/>
+  <rect x="79.1" y="53.8" width="20.9" height="21.6" fill="#88F6FC"/>
+  <rect x="79.1" y="79.2" width="20.9" height="21.6" fill="#88F6FC"/>
+  <path d="M25.8 0H46.7V35.3L37.26 45.55A7.6 7.6 0 0 1 31.67 48H25.8Z" fill="#88F6FC"/>
+  <path d="M24.9 52.1H32.81A10 10 0 0 0 40.17 48.86L54.1 33.7L75.1 48.7H67.19A10 10 0 0 0 59.83 51.94L45.9 67.1Z" fill="#88F6FC"/>
+  <path d="M74.2 100.8H53.3V65.5L62.74 55.25A7.6 7.6 0 0 1 68.33 52.8H74.2Z" fill="#88F6FC"/>
+</svg>
